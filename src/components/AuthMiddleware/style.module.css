@@ -1,0 +1,17 @@
+.navBar  ul {
+    width: 100%;
+    background-color: darkgrey;
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+    padding: 10px;
+}
+.navBar  ul  li{
+    color: azure;
+    margin-right: 50px;
+    
+}
+.link{
+    text-decoration: none;
+    color:azure
+}

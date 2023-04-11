@@ -1,0 +1,21 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+}
+.bigBox{
+    background: url("../assets/background_img/make-qr-codes-for-images-p6e63z5beh3bihikgf6trjg0qijahl2xnb8c2u0d90.jpg");
+    background-size:contain;
+    background-position:top;
+    background: cover;
+    justify-content: center;
+    align-items: end;
+    height: 900px;
+
+}
+.bigBox div {
+    padding: 5px;
+    justify-content: center;
+    width: 200px;
+    display: block;
+    
+}

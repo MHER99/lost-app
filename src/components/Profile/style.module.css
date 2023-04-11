@@ -1,0 +1,20 @@
+.profileBox{
+    justify-content: center;
+    align-items: end;
+    height: auto;
+    
+}
+.imgBox {
+    width: 300px;
+    height: auto;
+    border: 1px solid;
+    overflow:hidden;
+    border-radius: 3%;
+    padding: 0px;
+    margin: 0px;
+}
+.profile_picture {
+    overflow: hidden;
+    width: 100%;
+
+}

@@ -1,0 +1,13 @@
+.box2{
+    display: flex;
+}
+div {
+    padding: 5px;
+}
+/* .form {
+    padding:"10px";
+    border: "1px solid gray";
+    
+    width: "450px";
+    font-family:cursive;
+} */
